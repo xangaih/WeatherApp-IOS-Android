@@ -1,12 +1,10 @@
+# WeatherApp-IOS-Android
 
+This Weather App is a cross-platform mobile application built with Flutter, designed to provide users with real-time weather information based on their current location. It displays temperature, weather conditions, and details about sunrise and sunset times. The app leverages several powerful libraries and APIs to deliver a seamless and informative user experience.
 
 
 <img width="307" alt="Screenshot 2024-07-30 at 4 39 45 PM" src="https://github.com/user-attachments/assets/3625aa84-4646-4e95-8210-df008cf00f70">
 
-
-# WeatherApp-IOS-Android
-
-This Weather App is a cross-platform mobile application built with Flutter, designed to provide users with real-time weather information based on their current location. It displays temperature, weather conditions, and details about sunrise and sunset times. The app leverages several powerful libraries and APIs to deliver a seamless and informative user experience.
 
 ## Technologies and Packages Used
 
